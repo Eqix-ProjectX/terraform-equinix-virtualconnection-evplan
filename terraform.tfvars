@@ -1,6 +1,6 @@
 
-// equinix_client_id     = "xxxxxxxxxxxxxxxxxxxxxx"
-// equinix_client_secret = "xxxxxxxxxxxxxxxxxxxxxx"
+ equinix_client_id     = "xxxxxxxxxxxxxxxxxxxxxx"
+ equinix_client_secret = "xxxxxxxxxxxxxxxxxxxxxx"
 
 
 connection_name       = "Evplan-vc"
