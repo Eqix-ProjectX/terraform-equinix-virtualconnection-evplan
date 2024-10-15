@@ -1,8 +1,3 @@
-
- equinix_client_id     = "xxxxxxxxxxxxxxxxxxxxxx"
- equinix_client_secret = "xxxxxxxxxxxxxxxxxxxxxx"
-
-
 connection_name       = "Evplan-vc"
 notifications_emails  = ["test@equinix.com"]
 bandwidth             = 50
